@@ -1,5 +1,5 @@
 build:
-	go build -o ./bin/gololcat ./cmd/gololcat/main.go
+	go build -o ./bin/gololcat ./cmd/goclirainbow/main.go
 
 install:
-	go install -v ./cmd/gololcat
+	go install -v ./cmd/goclirainbow
